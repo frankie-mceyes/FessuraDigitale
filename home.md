@@ -2,13 +2,13 @@
 title: Fessura Digitale
 description: 
 published: 1
-date: 2026-05-05T14:10:50.518Z
+date: 2026-05-05T14:11:25.933Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T14:54:07.292Z
 ---
 
-> **STATO DEL PROGETTO: WORK IN PROGRESS 🚧**
+> STATO DEL PROGETTO: **WORK IN PROGRESS 🚧**
 > I contenuti sono in corso di redazione, la struttura del sito dovrebbe essere stabile ma non si escludono modifiche e rifiniture future.
 >L'accesso parziale o completo ad alcune sezioni del sito è limitato finché non si considererà una maturità di progetto sufficiente.
 {.is-info}
