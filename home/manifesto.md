@@ -2,7 +2,7 @@
 title: Manifesto di Fessura Digitale
 description: 
 published: 1
-date: 2026-05-05T14:15:01.631Z
+date: 2026-05-05T14:18:27.242Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:31:59.720Z
@@ -19,7 +19,7 @@ Questa non è una condanna ideologica né una dichiarazione di guerra:
 
 Da questo desiderio di consapevolezza nasce **Fessura Digitale**.  
 Un progetto che riconosce come l’Internet contemporaneo sia sempre più modellato da architetture centralizzate, regole invisibili e meccanismi di controllo che limitano scelta, comprensione e libertà individuale.
-Nella nostra visione, l’Internet moderno è diventato una stanza chiusa: muri lisci, alti, costruiti dalle grandi piattaforme che ne controllano l’architettura, il linguaggio, le regole e gli accessi. Un ambiente comodo — certo — ma limitato, sorvegliato, filtrato e modellato per renderci utenti prevedibili e non più parte attiva di esso.
+Nella nostra visione, l’Internet moderno è diventato una stanza chiusa: muri lisci, alti, costruiti dalle grandi piattaforme che ne controllano l’architettura, il linguaggio, le regole e gli accessi. Un ambiente comodo, certo, ma limitato, sorvegliato, filtrato e modellato per renderci utenti prevedibili e non più parte attiva di esso.
 
 **Fessura Digitale** vuole essere una crepa in questo sistema:  
 uno spazio di osservazione critica e di apprendimento, aperto a tutti i *viandanti digitali* che desiderano recuperare controllo, consapevolezza e indipendenza.
@@ -222,7 +222,7 @@ Usare senza capire espone a rischi maggiori dell’ignoranza totale, perché gen
 
 ### sul diritto alla disconnessione (oblio digitale)
 
-Fessura Digitale riconosce il diritto alla disconnessione come **un diritto individuale, inviolabile e non negoziabile**, che può essere esercitato solo dalla persona direttamente coinvolta. La disconnessione non è un obbligo, né una scelta da giustificare: è un atto di autodeterminazione digitale. Nessuna entità esterna — azienda, piattaforma o istituzione — dovrebbe spingere, impedire o condizionare tale scelta, salvo casi estremamente limitati e giustificabili da esigenze legali, di sicurezza o di responsabilità professionale chiaramente definite in accordi espliciti.
+Fessura Digitale riconosce il diritto alla disconnessione come **un diritto individuale, inviolabile e non negoziabile**, che può essere esercitato solo dalla persona direttamente coinvolta. La disconnessione non è un obbligo, né una scelta da giustificare: è un atto di autodeterminazione digitale. Nessuna entità esterna, azienda, piattaforma o istituzione dovrebbe spingere, impedire o condizionare tale scelta, salvo casi estremamente limitati e giustificabili da esigenze legali, di sicurezza o di responsabilità professionale chiaramente definite in accordi espliciti.
 
 La vita digitale di un individuo non deve essere automaticamente assimilata alla sua vita lavorativa o sociale. Opinioni personali, presenze online e identità digitali non costituiscono, di per sé, materiale legittimo di valutazione preventiva o sorveglianza da parte di datori di lavoro o intermediari, né giustificano pratiche invasive come controlli social indiscriminati o richieste di esposizione forzata dei propri profili. Al contrario, il coinvolgimento è ritenuto legittimo solo quando vi siano violazioni concrete di accordi di riservatezza, conflitti di interesse reali o rischi documentabili per la sicurezza collettiva/lavorativa.
 
@@ -240,7 +240,7 @@ Idealmente, ogni software dovrebbe essere **verificabile da soggetti esterni e i
 Un software può essere **verificabile** senza essere libero di essere copiato, modificato o ridistribuito: la lettura e l’analisi del codice possono essere consentite anche sotto licenze commerciali restrittive. La verificabilità riguarda la **trasparenza del funzionamento**, non la libertà di diffusione. Confondere i due concetti significa ridurre la trasparenza a una questione ideologica, quando è invece un requisito tecnico ed etico, compatibile anche con modelli proprietari.
 {.is-warning}
 
-Per Fessura Digitale, la verificabilità non deve essere riservata a élite tecniche o istituzionali: **la possibilità di comprendere e controllare il funzionamento degli strumenti digitali è parte della libertà dell’utente**. Limitare la trasparenza significa creare asimmetrie di potere. Questo vale ancor più per le grandi piattaforme che costruiscono servizi chiusi facendo ampio uso di tecnologie open source — come [FFMPEG](https://theirstack.com/en/technology/ffmpeg), librerie crittografiche come [OpenSSL](https://trends.builtwith.com/Server/OpenSSL) o interi ecosistemi di pacchetti — senza restituire trasparenza su ciò che accade dietro le loro quinte.
+Per Fessura Digitale, la verificabilità non deve essere riservata a élite tecniche o istituzionali: **la possibilità di comprendere e controllare il funzionamento degli strumenti digitali è parte della libertà dell’utente**. Limitare la trasparenza significa creare asimmetrie di potere. Questo vale ancor più per le grandi piattaforme che costruiscono servizi chiusi facendo ampio uso di tecnologie open source come [FFMPEG](https://theirstack.com/en/technology/ffmpeg), librerie crittografiche come [OpenSSL](https://trends.builtwith.com/Server/OpenSSL) o interi ecosistemi di pacchetti senza restituire trasparenza su ciò che accade dietro le loro quinte.
 
 Il software open source rappresenta inoltre un pilastro fondamentale della preservazione digitale e dell’autonomia tecnologica: è spesso sviluppato da comunità che condividono valori di accessibilità, responsabilità e conoscenza collettiva. Esempi come Linux, Firefox, Signal, Tor, Matrix, Nextcloud, KeePass, GIMP o Krita dimostrano che un software aperto, verificabile e moderno non è un’utopia, ma una realtà funzionante. In questo contesto, la responsabilità è reciproca: degli sviluppatori nel rendere trasparenti i propri strumenti, e degli utenti nel informarsi, comprendere e scegliere consapevolmente.
 
@@ -252,10 +252,10 @@ Un mezzo attraverso cui ogni individuo può definire consapevolmente la propria 
 Non la proponiamo come un obbligo morale né come una soluzione assoluta.  
 La decentralizzazione è un **percorso graduale**, fatto di scelte, compromessi e responsabilità crescenti: più ci si avvicina a una infrastruttura autonoma, più emergono sfide tecniche, operative e organizzative. Questo non ne invalida il valore, ma ne chiarisce la natura reale.
 
-Decentralizzare significa assumersi il controllo — e quindi la responsabilità — dei propri sistemi.  
+Decentralizzare significa assumersi il controllo, quindi la responsabilità, dei propri sistemi.  
 Delegare senza comprendere è l’opposto dell’autonomia che questo progetto promuove. Ogni scelta decentralizzata richiede consapevolezza: dalla selezione degli strumenti alla loro manutenzione, dalla continuità dei progetti adottati alla loro affidabilità nel tempo.
 
-Riconosciamo che esistono ambiti critici — come sanità, finanza ed emergenze — in cui soluzioni centralizzate, funzionanti e trasparenti sono oggi necessarie per garantire affidabilità e sicurezza. Allo stesso tempo, riteniamo legittima e incoraggiamo ogni iniziativa individuale di auto-gestione anche in questi settori, purché accompagnata da competenze adeguate e piena responsabilità dei risultati.
+Riconosciamo che esistono ambiti critici come sanità, finanza ed emergenze, in cui soluzioni centralizzate sono oggi necessarie per garantire affidabilità e sicurezza. Allo stesso tempo, riteniamo legittima e incoraggiamo ogni iniziativa individuale di auto-gestione anche in questi settori, purché accompagnata da competenze adeguate e piena responsabilità dei risultati.
 
 La decentralizzazione è anche una risposta ideologica alla concentrazione del potere digitale, ma può essere al tempo stesso un atto creativo e costruttivo: come costruire la propria casa o il proprio progetto personale, un’infrastruttura decentralizzata può essere funzionale, formativa e motivo di orgoglio.
 
