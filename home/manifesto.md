@@ -2,7 +2,7 @@
 title: Manifesto di Fessura Digitale
 description: 
 published: 1
-date: 2026-05-05T14:18:27.242Z
+date: 2026-05-07T12:24:10.478Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:31:59.720Z
@@ -259,9 +259,6 @@ Riconosciamo che esistono ambiti critici come sanità, finanza ed emergenze, in 
 
 La decentralizzazione è anche una risposta ideologica alla concentrazione del potere digitale, ma può essere al tempo stesso un atto creativo e costruttivo: come costruire la propria casa o il proprio progetto personale, un’infrastruttura decentralizzata può essere funzionale, formativa e motivo di orgoglio.
 
-Fessura Digitale non chiede adesione né promete soluzioni miracolose; fornisce strumenti, conoscenza e contesto affinché ogni lettore possa **comprendere, valutare e scegliere**, senza timore, ma con lucidità.
-
-
 ## Che cosa offre Fessura Digitale  
 Fessura Digitale è una Wiki, un archivio dinamico di conoscenze e strategie per riconquistare la propria indipendenza digitale. Non è un servizio commerciale, non è un prodotto, né un corpus di dogmi.
 
@@ -278,6 +275,8 @@ Qui i *viandanti digitali* troveranno gratuitamente:
 - strumenti per auto-difendersi dal tracking sistematico  
 - metodi per ottenere controllo, non solo “sicurezza”  
 - una comunità pronta ad accogliere contributi, idee, suggerimenti
+
+Fessura Digitale non chiede adesione né promete soluzioni miracolose; fornisce strumenti, conoscenza e contesto affinché ogni lettore possa **comprendere, valutare e scegliere** senza timore e con lucidità.
 
 ## Missione  
 La missione di Fessura Digitale è semplice:
