@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-10T14:59:39.585Z
+date: 2026-08-10T15:23:14.293Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
@@ -46,3 +46,14 @@ Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supp
 - [Condividi il nostro Manifesto su Facebook](https://www.facebook.com/sharer/sharer.php?u=https://fessuradigitale.mceyes.me/it/home/manifesto)
 - [Condividi questa pagina su Facebook](https://www.facebook.com/sharer/sharer.php?u=https://fessuradigitale.mceyes.me/it/home/supporta)
 {.links-list}
+
+## Acquistando gadget e merchandising
+
+## Effettuando una donazione libera
+#### Donazione diretta
+#### Criptovalute
+
+> Il 100% di quanto viene donato in forma monetaria viene reinvestito nel progetto secondo quanto riportato nella pagina [trasparenza](/home/trasparenza).
+{.is-info}
+> I servizi offerti da questo progetto non fanno uso di pubblicità, pertanto l'unica entrata fissa e stabile che sostiene questo progetto sono le donazioni monetarie e le entrate personali dell'amministratore.
+{.is-info}
