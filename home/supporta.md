@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-10T15:30:10.568Z
+date: 2026-08-10T15:30:24.379Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
@@ -60,5 +60,5 @@ Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supp
 > Il 100% di quanto viene donato in forma monetaria viene reinvestito nel progetto secondo quanto riportato nella pagina [trasparenza](/home/trasparenza).
 {.is-info}
 
-> I servizi offerti da questo progetto non fanno uso di pubblicità, pertanto le uniche entrata fisse e stabili che sostiene questo progetto sono le donazioni monetarie e le entrate personali dell'amministratore.
+> I servizi offerti da questo progetto non fanno uso di pubblicità, pertanto le uniche entrata fisse e stabili che sostiene questo progetto sono le donazioni monetarie libere e le entrate personali dell'amministratore.
 {.is-info}
