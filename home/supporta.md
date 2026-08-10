@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-10T14:54:42.073Z
+date: 2026-08-10T14:59:39.585Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
@@ -42,7 +42,7 @@ Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supp
 > `https://fessuradigitale.mceyes.me/`
 
 #### Facebook
-- Condividi Fessura Digitale su Facebook
-- Condividi il nostro Manifesto su Facebook
-- Condividi questa pagina su Facebook
+- [Condividi Fessura Digitale su Facebook](https://www.facebook.com/sharer/sharer.php?u=https://fessuradigitale.mceyes.me)
+- [Condividi il nostro Manifesto su Facebook](https://www.facebook.com/sharer/sharer.php?u=https://fessuradigitale.mceyes.me/it/home/manifesto)
+- [Condividi questa pagina su Facebook](https://www.facebook.com/sharer/sharer.php?u=https://fessuradigitale.mceyes.me/it/home/supporta)
 {.links-list}
