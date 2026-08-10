@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-10T15:30:24.379Z
+date: 2026-08-10T15:31:51.795Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
