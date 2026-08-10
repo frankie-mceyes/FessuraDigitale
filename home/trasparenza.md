@@ -2,13 +2,13 @@
 title: Trasparenza
 description: 
 published: 1
-date: 2026-08-10T15:36:55.974Z
+date: 2026-08-10T15:37:22.074Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:51:41.670Z
 ---
 
-In questa pagina sono elencati in completa trasparenza i costi di gestione e le risorse impiegate nel progetto _Fessura Digitale_.
+In questa pagina sono elencati in completa trasparenza i costi di gestione e le risorse impiegate nel progetto *Fessura Digitale*.
 
 Dove possibili, viene allegata documentazione a comprovare l'effettivo costo di gestione.
 Tutti i valori sono da considerare in euro.
