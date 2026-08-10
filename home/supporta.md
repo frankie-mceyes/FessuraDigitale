@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-10T15:23:24.690Z
+date: 2026-08-10T15:23:56.659Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
@@ -47,7 +47,8 @@ Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supp
 - [Condividi questa pagina su Facebook](https://www.facebook.com/sharer/sharer.php?u=https://fessuradigitale.mceyes.me/it/home/supporta)
 {.links-list}
 
-## Acquistando gadget e merchandising
+## Acquistando gadget e merchandising del Progetto
+
 
 ## Effettuando una donazione libera
 #### Donazione diretta
