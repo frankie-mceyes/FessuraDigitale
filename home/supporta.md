@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-10T15:29:04.924Z
+date: 2026-08-10T15:29:16.120Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
@@ -49,8 +49,7 @@ Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supp
 
 ## Acquistando gadget e merchandising del Progetto
 
-- https://frankiemceyes.redbubble.com/
-{.links-list}
+- *Sezione in allestimento*
 
 ## Effettuando una donazione libera
 #### Donazione diretta
