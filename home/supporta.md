@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-10T21:54:28.887Z
+date: 2026-08-10T21:55:50.496Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
@@ -17,9 +17,9 @@ Sentitevi liberi di condividere i nostri articoli, il nostro manifesto o il nost
 
 ### Tabs {.tabset}
 #### Twitter
-- [Condividi Fessura Digitale su Twitter](https://x.com/intent/tweet?text=Ecco%20una%20risorsa%20che%20tutti%20dovrebbero%20conoscere!%0A#FessuraDigitale%20#DirittiDigitali%0A%0Ahttps://fessuradigitale%2Emceyes%2Eme)
-- [Condividi il nostro Manifesto su Twitter](https://x.com/intent/tweet?text=Una+lettura+che+consiglio+a+tutti+i+miei+contatti.%0A%23FessuraDigitale+%23DirittiDigitali%0A%0Ahttps://fessuradigitale%2Emceyes%2Eme%2Fit%2Fhome%2Fmanifesto)
-- [Condividi questa pagina su Twitter](https://x.com/intent/tweet?text=Una+lettura+che+consiglio+a+tutti+i+miei+contatti.%0A%23FessuraDigitale+%23DirittiDigitali%0A%0Ahttps://fessuradigitale%2Emceyes%2Eme2Fit%2Fhome%2Fmanifesto)
+- [Condividi Fessura Digitale su Twitter](https://x.com/intent/tweet?text=Ecco+una+risorsa+che+tutti+dovrebbero+conoscere%21%0A%23FessuraDigitale+%23DirittiDigitali&&url=https%3A%2F%2Ffessuradigitale.mceyes.me%2F)
+- [Condividi il nostro Manifesto su Twitter](https://x.com/intent/tweet?text=Una+lettura+che+consiglio+a+tutti+i+miei+contatti.%0A%23FessuraDigitale+%23DirittiDigitali&url=https%3A%2F%2Ffessuradigitale.mceyes.me%2Fit%2Fhome%2Fmanifesto)
+- [Condividi questa pagina su Twitter](https://x.com/intent/tweet?text=Una+lettura+che+consiglio+a+tutti+i+miei+contatti.%0A%23FessuraDigitale+%23DirittiDigitali&url=https%3A%2F%2Ffessuradigitale.mceyes.me%2Fit%2Fhome%2Fmanifesto)
 {.links-list}
 #### Mastodon
 Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supporto del progetto!
