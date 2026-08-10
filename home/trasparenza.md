@@ -2,7 +2,7 @@
 title: Trasparenza
 description: 
 published: 1
-date: 2026-08-10T15:37:22.074Z
+date: 2026-08-10T15:38:18.586Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:51:41.670Z
@@ -95,6 +95,7 @@ Indirizzo legale: 101 Townsend St., San Francisco, CA 94107
 | Fornitore | Costo mensile | Costo annuale |
 | -------- | -------- | -------- |
 | Cloudflare INC | 0.00 | 0.00 |
+| Contabo GmbH | 0.00 | 0.00 |
 
 Scopo del prodotto: Protezione dei servizi web esposti contro attacchi informatici o disservizi
 Paese di appartenenza: California, Stati Uniti
