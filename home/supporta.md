@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-11T20:43:26.533Z
+date: 2026-08-11T20:44:31.372Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
@@ -15,7 +15,7 @@ Sentitevi liberi di condividere i nostri articoli, il nostro manifesto o il nost
 
 ![banner](/assets/fedi_banner_white_transparent.png){.align-center}
 
-### Tabs {.tabset}
+### Socials {.tabset}
 #### Twitter
 - [Condividi Fessura Digitale su Twitter](https://x.com/intent/tweet?text=Ecco+una+risorsa+che+tutti+dovrebbero+conoscere%21%0A%23FessuraDigitale+%23DirittiDigitali&&url=https%3A%2F%2Ffessuradigitale.mceyes.me%2F)
 - [Condividi il nostro Manifesto su Twitter](https://x.com/intent/tweet?text=Una+lettura+che+consiglio+a+tutti+i+miei+contatti.%0A%23FessuraDigitale+%23DirittiDigitali&url=https%3A%2F%2Ffessuradigitale.mceyes.me%2Fit%2Fhome%2Fmanifesto)
@@ -60,9 +60,13 @@ Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supp
 
 
 #### Criptovalute
-<p align="center">
-  <img height='350' src="/btc.png"/> <img height='350' src="/eth.png"/> <img height='350' src="/sol.png"/>
-</p>
+### Criptovalute {.tabset}
+#### Bitcoin
+<img height='350' src="/btc.png"/>
+#### Ethereum
+<img height='350' src="/eth.png"/>
+#### Solana
+<img height='350' src="/sol.png"/>
 
 > Il 100% di quanto viene ricevuto in forma monetaria viene reinvestito nel progetto secondo quanto riportato nella pagina [trasparenza](/home/trasparenza).
 {.is-info}
