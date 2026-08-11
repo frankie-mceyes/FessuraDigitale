@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-11T20:20:18.446Z
+date: 2026-08-11T20:21:38.088Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
@@ -54,7 +54,10 @@ Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supp
 
 ## Effettuando una donazione libera
 #### Donazione diretta
-- *Sezione in allestimento*
+<p align=center>
+<iframe id='kofiframe' src='https://ko-fi.com/mceyes/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background-color:white;' height='700px' title='mceyes'></iframe>
+</p>
+
 #### Criptovalute
 - *Sezione in allestimento*
 
