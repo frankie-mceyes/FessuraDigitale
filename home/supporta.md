@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-11T20:21:38.088Z
+date: 2026-08-11T20:42:50.630Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
@@ -49,17 +49,17 @@ Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supp
 
 ## Acquistando gadget e merchandising del Progetto
 <p align="center">
-  <a href="https://www.redbubble.com/people/frankiemceyes/shop?collections=4562786" target=_blank><img src="/redbubble_store.webp" alt="Sublime's custom image"/></a>
+  <a href="https://www.redbubble.com/people/frankiemceyes/shop?collections=4562786" target=_blank><img height='750' src="/redbubble_store.webp"/></a>
 </p>
 
 ## Effettuando una donazione libera
 #### Donazione diretta
-<p align=center>
-<iframe id='kofiframe' src='https://ko-fi.com/mceyes/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background-color:white;' height='700px' title='mceyes'></iframe>
-</p>
+<a href='https://ko-fi.com/S6S32Y6P1' target='_blank'><img height='100' style='border:0px;' src='https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_beige.png' border='0' alt='Supportami su Ko-fi.com' /></a>
 
 #### Criptovalute
-- *Sezione in allestimento*
+<p align="center">
+<img height='350' src="/btc.png"/> <img height='350' src="/eth.png"/> <img height='350' src="/sol.png"/>
+</p>
 
 > Il 100% di quanto viene ricevuto in forma monetaria viene reinvestito nel progetto secondo quanto riportato nella pagina [trasparenza](/home/trasparenza).
 {.is-info}
