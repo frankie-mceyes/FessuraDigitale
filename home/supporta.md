@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-11T20:42:50.630Z
+date: 2026-08-11T20:43:26.533Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
@@ -54,11 +54,14 @@ Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supp
 
 ## Effettuando una donazione libera
 #### Donazione diretta
-<a href='https://ko-fi.com/S6S32Y6P1' target='_blank'><img height='100' style='border:0px;' src='https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_beige.png' border='0' alt='Supportami su Ko-fi.com' /></a>
+<p align="center">
+  <a href='https://ko-fi.com/S6S32Y6P1' target='_blank'><img height='150' style='border:0px;' src='https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_beige.png' border='0' alt='Supportami su Ko-fi.com' /></a>
+  </p>
+
 
 #### Criptovalute
 <p align="center">
-<img height='350' src="/btc.png"/> <img height='350' src="/eth.png"/> <img height='350' src="/sol.png"/>
+  <img height='350' src="/btc.png"/> <img height='350' src="/eth.png"/> <img height='350' src="/sol.png"/>
 </p>
 
 > Il 100% di quanto viene ricevuto in forma monetaria viene reinvestito nel progetto secondo quanto riportato nella pagina [trasparenza](/home/trasparenza).
