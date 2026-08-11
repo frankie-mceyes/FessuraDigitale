@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-11T20:44:44.846Z
+date: 2026-08-11T20:46:32.004Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
@@ -60,7 +60,7 @@ Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supp
 
 
 #### Criptovalute
-### Criptovalute {.tabset}
+### {.tabset}
 #### Bitcoin
 <img height='350' src="/btc.png"/>
 
@@ -69,6 +69,8 @@ Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supp
 
 #### Solana
 <img height='350' src="/sol.png"/>
+
+##
 
 > Il 100% di quanto viene ricevuto in forma monetaria viene reinvestito nel progetto secondo quanto riportato nella pagina [trasparenza](/home/trasparenza).
 {.is-info}
