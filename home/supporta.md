@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-11T20:44:31.372Z
+date: 2026-08-11T20:44:44.846Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
@@ -63,8 +63,10 @@ Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supp
 ### Criptovalute {.tabset}
 #### Bitcoin
 <img height='350' src="/btc.png"/>
+
 #### Ethereum
 <img height='350' src="/eth.png"/>
+
 #### Solana
 <img height='350' src="/sol.png"/>
 
