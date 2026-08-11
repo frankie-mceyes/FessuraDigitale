@@ -2,7 +2,7 @@
 title: Supporta il progetto
 description: 
 published: 1
-date: 2026-08-11T20:46:32.004Z
+date: 2026-08-11T20:46:54.404Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:52:46.975Z
@@ -54,10 +54,7 @@ Potete aprire la vostra istanza di Mastodon e condividere questi messaggi a supp
 
 ## Effettuando una donazione libera
 #### Donazione diretta
-<p align="center">
   <a href='https://ko-fi.com/S6S32Y6P1' target='_blank'><img height='150' style='border:0px;' src='https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_beige.png' border='0' alt='Supportami su Ko-fi.com' /></a>
-  </p>
-
 
 #### Criptovalute
 ### {.tabset}
